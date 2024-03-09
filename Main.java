@@ -19,7 +19,7 @@ public class Main {
 
 
         //Creation des agents
-       //    Agent agent1 = new Agent("Hamidi", "Hamid", "100000");
+         Agent agent1 = new Agent("Hamidi", "Hamid", "100000");
         //Creation d'un admin
         Administrateur admin = new Administrateur("Bayazid", "karim", "000005");
         //l'ajout d'agent a la base de donnes de la bibliotheque
